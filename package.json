@@ -4,9 +4,10 @@
   "title": "Hex Package Search",
   "description": "Quickly search packages on https://hex.pm",
   "icon": "hex.png",
-  "author": "brandc87",
+  "author": "carl_brand",
   "categories": [
     "Developer Tools",
+    "Documentation",
     "Productivity",
     "Web"
   ],

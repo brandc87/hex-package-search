@@ -1,3 +1,3 @@
 # Hex Package Search Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## [Added Hex Package Search] - 2024-10-06
