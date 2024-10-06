@@ -10,7 +10,7 @@ export default function Command() {
     <List
       isLoading={state.isLoading}
       onSearchTextChange={search}
-      searchBarPlaceholder="Search Erlang packages..."
+      searchBarPlaceholder="Search for Elixir and Erlang packages..."
       throttle
     >
       <List.Section title="Results" subtitle={state.results.length + ""}>
